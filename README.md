@@ -1,5 +1,16 @@
 # Rendz vous Plaifier 
 
+## Installation :
+     git clone  {url_repo} 
+
+   ## apres click sur le fichier ca marche
+   
+##  tu dois avoir Python installé das votre ordinateur.
+
+
+
+# Demo :   
+
 ![image](https://github.com/aymaneaarab/Rendez-vouz-Planifier-Python--Project/assets/156524139/16770a04-8243-446f-b944-bc5b9f86ee04)
 
 ![image](https://github.com/aymaneaarab/Rendez-vouz-Planifier-Python--Project/assets/156524139/41ec8e1f-2794-476f-a035-11891f6d456b)
